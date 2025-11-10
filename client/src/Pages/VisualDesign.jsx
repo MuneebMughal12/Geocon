@@ -1,5 +1,5 @@
 import React from 'react'
-import Visualdesign from '../Components/Gallery/Visualdesign'
+import Visualdesign from '../Components/Gallery/Visual_design'
 
 const VisualDesign = () => {
   return (
